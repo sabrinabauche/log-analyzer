@@ -11,7 +11,7 @@ This is a simple log analysis project built with Python and Streamlit. It simula
   - Visualize failed login attempts per IP.
   - Highlight suspicious IPs with more than 5 failed attempts.
  
-✨ Features demonstrated
+## ✨ Features demonstrated
 - Python scripting and data simulation
 - Log parsing with regular expressions
 - Data analysis with pandas
@@ -35,7 +35,7 @@ log-analyzer/
 
 ## 🚀 How to run it locally
 
-### 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/sabrinabauche/log-analyzer.git
 cd log-analyzer
 
