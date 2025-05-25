@@ -32,6 +32,9 @@ log-analyzer/
 ├── requirements.txt # List of Python dependencies
 └── .gitignore # Files excluded from version control
 
+## Published live version: open in browser
+https://log-analyzers.streamlit.app/
+
 
 ## 🚀 How to run it locally
 
