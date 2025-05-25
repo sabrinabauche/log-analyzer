@@ -28,7 +28,7 @@ log-analyzer/
 ├── app.py # Streamlit dashboard interface
 ├── generate_logs.py # Simulates and generates 100 login events
 ├── logs/
-│ └── sample_logs.txt # Generated log file
+└── sample_logs.txt # Generated log file
 ├── requirements.txt # List of Python dependencies
 └── .gitignore # Files excluded from version control
 
